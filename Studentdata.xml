@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <name>Alice Johnson</name>
+    <course></course>
+    <semester>1</semester>
+    <marks></marks>
+  </student>
+  <student>
+    <name>Aryan Kumar</name>
+    <course>CSE(AI)</course>
+    <semester>1</semester>
+    <marks>430</marks>
+     <Tmarks>450</Tmarks>
+  </student>
+  <student>
+    <name>Chaitanya Tripathi</name>
+  <course>CS</course>
+    <semester>1</semester>
+    <marks>390</marks>
+     <Tmarks>450</Tmarks>
+  </student>
+  <student>
+    <name>Pinku Yadav</name>
+    <course>CSE(AIMl)</course>
+    <semester>1</semester>
+    <marks>370</marks>
+    <Tmarks>450</Tmarks>
+  </student>
+  <student>
+    <name>Muskan Gupta</name>
+    <course>CSE</course>
+    <semester>1</semester>
+    <marks>435</marks>
+    <Tmarks>450</Tmarks>
+  </student>
+</students>
